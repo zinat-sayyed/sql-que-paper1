@@ -1,0 +1,5 @@
+1.diff between sub query and co relation query?
+2.how to get date of upcoming friday?
+3.diff between rank and dense rank?
+4.how to select bottom 5 record from table?
+5
